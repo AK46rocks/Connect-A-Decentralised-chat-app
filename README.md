@@ -12,7 +12,7 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://patra.vercel.app/)
+[![Deploy with Vercel](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://patra.vercel.app/)
 
 ## How to use
 
